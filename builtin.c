@@ -1,5 +1,5 @@
 #include "shell.h"
-
+#include <stdio.h>  // Include standard header for functions like _puts
 /**
  * _myexit - exits the shell
  * @info: Structure containing potential arguments. Used to maintain
